@@ -1,0 +1,26 @@
+[
+    {
+        "book_id": 1,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published_year": 1813
+    },
+    {
+        "book_id": 2,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "published_year": 1851
+    },
+    {
+        "book_id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "published_year": 1949
+    },
+    {
+        "book_id": 4,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published_year": 1960
+    }
+]
